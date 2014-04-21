@@ -1,0 +1,30 @@
+Set-ExplorerOptions -showHidenFilesFoldersDrives -showProtectedOSFiles -showFileExtensions
+Enable-RemoteDesktop
+
+cinst firefox
+cinst googlechrome
+cinst skype
+cinst vlc
+cinst ffmpeg
+cinst javaruntime
+cinst teracopy
+cinst notepadplusplus.install
+cinst git.install
+cinst falshplayerplugin
+cinst sysinternals
+cinst fiddler4
+cinst sublimetext2
+cinst windirstat
+cinst calibre
+cinst gitextensions
+cinst linqpad4
+cinst spotify
+cinst rdcman
+cinst classic-shell
+cinst papercut
+cinst lastpass
+cinst VisualStudio2013Ultimate Blend OfficeDeveloperTools SQL WebTools Win8SDK
+cinst resharper
+
+cinst Microsoft-Hyper-V-All -source windowsFeatures
+cinst IIS-WebServerRole -source windowsfeatures
