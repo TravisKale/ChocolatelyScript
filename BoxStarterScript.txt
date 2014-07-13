@@ -67,7 +67,9 @@ cinst truecrypt
 cinst ffmpeg 
 cinst KatMouse 
 cinst alldup 
-
+cinst bulkrenameutility 
+cinst Recuva 
+ 
 #***Windows 8 Specific *****
 #cinst classic-shell
 
