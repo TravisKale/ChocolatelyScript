@@ -1,3 +1,7 @@
+# **** Notes:  When running scrip boxstarter  has a  'click to publish'eque' install nature.  A seperate task bar appliction will run.
+#**** I have noticed it have a missing taskbar icon before.  it may appear when launching script nothing is happening
+#**** just look in the taskbar after launching.  Launch from powershell.
+
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar
 Enable-RemoteDesktop
 
