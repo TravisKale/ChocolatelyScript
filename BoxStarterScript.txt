@@ -3,9 +3,8 @@
 #**** just look in the taskbar after launching.  Launch from commandprompt.
 
 #*** to execute
-#Install BoxStarter
-#Set User Account Control to 'never notify'
-#copy the following minus # to a  comand window,  :
+#Install BoxStarter http://boxstarter.org/
+#copy the following - # to a  comand window,  :
 #START http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/TravisKale/ChocolatelyScript/master/BoxStarterScript.txt 
 
 #**** Not Working *******
