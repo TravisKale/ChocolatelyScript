@@ -7,7 +7,6 @@ cinst skype
 cinst vlc
 cinst ffmpeg
 cinst javaruntime
-cinst teracopy
 cinst notepadplusplus.install
 cinst git.install
 cinst falshplayerplugin
@@ -20,11 +19,14 @@ cinst gitextensions
 cinst linqpad4
 cinst spotify
 cinst rdcman
-cinst classic-shell
+cinst mousewithoutborders 
+cinst autohotkey
+
 cinst papercut
 cinst lastpass
-cinst VisualStudio2013Ultimate Blend OfficeDeveloperTools SQL WebTools Win8SDK
-cinst resharper
+
+#***Windows 8 Specific *****
+#cinst classic-shell
 
 cinst Microsoft-Hyper-V-All -source windowsFeatures
 cinst IIS-WebServerRole -source windowsfeatures
