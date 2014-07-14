@@ -63,7 +63,6 @@ cinst k-litecodecpackmega
 cinst kdiff3 
 cinst imgburn 
 cinst truecrypt 
-cinst ffmpeg 
 cinst KatMouse 
 cinst alldup 
 cinst bulkrenameutility 
