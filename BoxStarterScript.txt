@@ -67,6 +67,7 @@ cinst KatMouse
 cinst alldup 
 cinst bulkrenameutility 
 cinst Recuva 
+cinst workrave 
  
 #***Windows 8 Specific *****
 #cinst classic-shell
