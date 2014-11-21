@@ -14,63 +14,63 @@
 Set-WindowsExplorerOptions -EnableShowHiddenFilesFoldersDrives -EnableShowProtectedOSFiles -EnableShowFileExtensions -EnableShowFullPathInTitleBar
 Enable-RemoteDesktop
 
-cinst disableuac 
-cinst firefox
-cinst googlechrome
-cinst skype
-cinst vlc
-cinst ffmpeg
-cinst Silverlight 
-cinst javaruntime
-cinst notepadplusplus.install
-cinst git.install
-cinst flashplayeractivex 
-cinst falshplayerplugin
-cinst sysinternals
-cinst fiddler4
-cinst sublimetext2
-cinst windirstat
-cinst calibre
-cinst gitextensions
-cinst linqpad4
-cinst spotify
-cinst rdcman
-cinst mousewithoutborders 
-cinst autohotkey
-cinst papercut
-cinst lastpass
+choco install disableuac 
+choco install firefox
+choco install googlechrome
+choco install skype
+choco install vlc
+choco install ffmpeg
+choco install Silverlight 
+choco install javaruntime
+choco install notepadplusplus.install
+choco install git.install
+choco install flashplayeractivex 
+choco install falshplayerplugin
+choco install sysinternals
+choco install fiddler4
+choco install sublimetext2
+choco install windirstat
+choco install calibre
+choco install gitextensions
+choco install linqpad4
+choco install spotify
+choco install rdcman
+choco install mousewithoutborders 
+choco install autohotkey
+choco install papercut
+choco install lastpass
 
-cinst btsync 
-cinst xbmc 
-cinst peerblock 
-cinst uTorrent
-cinst adblockplusie 
-cinst adblockplusfirefox 
-cinst adblockpluschrome 
-cinst onedrive 
-cinst VirtualCloneDrive 
-cinst FoxitReader 
-cinst ChocolateyGUI
-cinst 7zip 
-cinst universal-extractor 
-cinst putty 
-cinst filezilla 
-cinst paint.net 
-cinst keepass 
-cinst procexp 
-cinst greenshot 
-cinst k-litecodecpackmega 
-cinst kdiff3 
-cinst imgburn 
-cinst truecrypt 
-cinst KatMouse 
-cinst alldup 
-cinst bulkrenameutility 
-cinst Recuva 
-cinst workrave 
+choco install btsync 
+choco install xbmc 
+choco install peerblock 
+choco install uTorrent
+choco install adblockplusie 
+choco install adblockplusfirefox 
+choco install adblockpluschrome 
+choco install onedrive 
+choco install VirtualCloneDrive 
+choco install FoxitReader 
+choco install ChocolateyGUI
+choco install 7zip 
+choco install universal-extractor 
+choco install putty 
+choco install filezilla 
+choco install paint.net 
+choco install keepass 
+choco install procexp 
+choco install k-litecodecpackmega 
+choco install kdiff3 
+choco install imgburn 
+choco install truecrypt 
+choco install KatMouse 
+choco install alldup 
+choco install bulkrenameutility 
+choco install Recuva 
+choco install workrave 
+choco install install kindle
  
 #***Windows 8 Specific *****
-#cinst classic-shell
+#choco install classic-shell
 
-cinst Microsoft-Hyper-V-All -source windowsFeatures
-cinst IIS-WebServerRole -source windowsfeatures
+choco install Microsoft-Hyper-V-All -source windowsFeatures
+choco install IIS-WebServerRole -source windowsfeatures
