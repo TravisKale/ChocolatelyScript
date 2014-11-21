@@ -4,6 +4,7 @@
 
 #*** to execute
 #Install BoxStarter http://boxstarter.org/
+#Make Internet Explorer your default browser, don't worry it's only temporary.  (Click once experience works better)
 #copy the following - # to a  comand window,  :
 #START http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/TravisKale/ChocolatelyScript/master/BoxStarterScript.txt 
 
