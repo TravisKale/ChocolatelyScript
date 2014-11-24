@@ -1,0 +1,63 @@
+# **** Notes:  When running scrip boxstarter  has a  'click to publish'esque' install nature.  A seperate task bar appliction will run.
+#**** I have noticed it have a missing taskbar icon before.  it may appear when launching script nothing is happening
+#**** just look in the taskbar after launching.  Launch from commandprompt.
+
+#*** to execute
+#Install BoxStarter http://boxstarter.org/
+#Make Internet Explorer your default browser, don't worry it's only temporary.  (Click once experience works better)
+#copy the following - # to a  comand window,  :
+#START http://boxstarter.org/package/nr/url?https://raw.githubusercontent.com/TravisKale/ChocolatelyScript/master/BareBonesBoxStarter.txt 
+
+#**** Not Working *******
+#flashPlayer
+#LastPass
+
+Set-WindowsExplorerOptions -EnableShowFileExtensions -EnableShowFullPathInTitleBar
+Enable-RemoteDesktop
+
+choco install disableuac 
+choco install firefox
+choco install googlechrome
+
+choco install vlc
+choco install ffmpeg
+choco install Silverlight 
+
+choco install notepadplusplus.install
+
+choco install flashplayeractivex 
+choco install falshplayerplugin
+
+choco install windirstat
+
+
+
+choco install xbmc 
+
+choco install adblockplusie 
+choco install adblockplusfirefox 
+choco install adblockpluschrome 
+
+choco install VirtualCloneDrive 
+choco install FoxitReader 
+choco install ChocolateyGUI
+choco install 7zip 
+choco install universal-extractor 
+
+choco install paint.net 
+choco install keepass 
+
+choco install k-litecodecpackmega 
+
+choco install imgburn 
+choco install truecrypt 
+
+choco install Recuva 
+
+choco install install kindle
+ 
+#***Windows 8 Specific *****
+#choco install classic-shell
+
+
+
